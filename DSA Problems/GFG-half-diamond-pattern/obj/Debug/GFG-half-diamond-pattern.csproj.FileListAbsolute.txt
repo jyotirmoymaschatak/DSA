@@ -1,0 +1,7 @@
+C:\Users\jmaschatak\Desktop\SDE\DSA Github Repo\DSA\DSA Problems\GFG-half-diamond-pattern\bin\Debug\GFG-half-diamond-pattern.exe.config
+C:\Users\jmaschatak\Desktop\SDE\DSA Github Repo\DSA\DSA Problems\GFG-half-diamond-pattern\bin\Debug\GFG-half-diamond-pattern.exe
+C:\Users\jmaschatak\Desktop\SDE\DSA Github Repo\DSA\DSA Problems\GFG-half-diamond-pattern\bin\Debug\GFG-half-diamond-pattern.pdb
+C:\Users\jmaschatak\Desktop\SDE\DSA Github Repo\DSA\DSA Problems\GFG-half-diamond-pattern\obj\Debug\GFG-half-diamond-pattern.csproj.AssemblyReference.cache
+C:\Users\jmaschatak\Desktop\SDE\DSA Github Repo\DSA\DSA Problems\GFG-half-diamond-pattern\obj\Debug\GFG-half-diamond-pattern.csproj.CoreCompileInputs.cache
+C:\Users\jmaschatak\Desktop\SDE\DSA Github Repo\DSA\DSA Problems\GFG-half-diamond-pattern\obj\Debug\GFG-half-diamond-pattern.exe
+C:\Users\jmaschatak\Desktop\SDE\DSA Github Repo\DSA\DSA Problems\GFG-half-diamond-pattern\obj\Debug\GFG-half-diamond-pattern.pdb
