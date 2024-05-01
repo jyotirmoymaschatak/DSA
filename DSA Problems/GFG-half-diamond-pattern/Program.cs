@@ -10,6 +10,7 @@ namespace GFG_half_diamond_pattern
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello");
         }
     }
 }
